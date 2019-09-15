@@ -1,0 +1,10 @@
+*.odt
+*.ods
+*.ott
+*#
+.LABs/
+.TMP/
+*.tmp
+*.zip
+*.tar*/
+
